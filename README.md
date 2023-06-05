@@ -7,3 +7,7 @@ https://github.com/PalmerCurrie/Tic-Tac-Toe-Project/assets/129619038/2486df4b-ad
 https://github.com/PalmerCurrie/Tic-Tac-Toe-Project/assets/129619038/b189a9a5-9712-418a-997f-471e16a1d84a
 
 
+Features to add:  
+- Reset Score feature 
+- Allow user to enter player names  
+- Winning animation or effect 
